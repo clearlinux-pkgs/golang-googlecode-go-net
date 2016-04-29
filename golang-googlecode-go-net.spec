@@ -1,6 +1,6 @@
 Name     : golang-googlecode-go-net 
 Version  : 0
-Release  : 3
+Release  : 4
 URL      : https://github.com/golang/net/archive/03affa02f16950ea3188823456766ed60bfed9bb.tar.gz
 Source0  : https://github.com/golang/net/archive/03affa02f16950ea3188823456766ed60bfed9bb.tar.gz
 Summary  : No detailed summary available
